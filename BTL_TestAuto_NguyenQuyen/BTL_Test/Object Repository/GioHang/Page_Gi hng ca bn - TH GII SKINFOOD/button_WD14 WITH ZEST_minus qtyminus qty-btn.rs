@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_WD14 WITH ZEST_minus qtyminus qty-btn</name>
+   <tag></tag>
+   <elementGuidId>399c8878-0192-4463-8a9f-45bfd563e894</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.minus.qtyminus.qty-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2cf9a527-6fad-4409-8065-98290e9e6d9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30a7de62-a8fd-451e-a266-4326c0a31740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>minus qtyminus qty-btn</value>
+      <webElementGuid>ae6ef6d4-0542-4f65-8934-155a2ef84cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartformpage&quot;)/div[@class=&quot;table-cart&quot;]/div[@class=&quot;cart-group single&quot;]/div[@class=&quot;item line-item line-item-container&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;item-meta&quot;]/div[@class=&quot;item-quan&quot;]/div[@class=&quot;qty quantity-partent qty-click&quot;]/button[@class=&quot;minus qtyminus qty-btn&quot;]</value>
+      <webElementGuid>2df7fd84-8997-4f11-b9df-a7ebf774639e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>37859134-e60c-4899-bcdc-f30d637be64e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cartformpage']/div/div/div/div[2]/div[2]/div[2]/div/button</value>
+      <webElementGuid>6e62ab80-37ce-4359-9633-d5ab26e4ddc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WD14 WITH ZEST'])[1]/following::button[1]</value>
+      <webElementGuid>4eb22423-076d-4fa8-b0b8-5684cb10e3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[New Dew] Son Tint Bóng Merzy Dạng Thạch, Bền Màu, Lâu Trôi Merzy New Watery Dew Tint 4g'])[1]/following::button[1]</value>
+      <webElementGuid>749fa7ae-d135-4aae-a625-4764c189d744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thành tiền:'])[1]/preceding::button[2]</value>
+      <webElementGuid>1691e1f1-ca81-4754-989e-77e1e88d2c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>cba98564-a337-4f75-8b86-7fdd31ee5b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>1d8f9615-41d5-44c2-9dc0-fd528ce64a10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

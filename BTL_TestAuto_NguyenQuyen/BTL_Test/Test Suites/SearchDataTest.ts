@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SearchDataTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>6eda9bc7-4bb8-4c38-88de-84af4334d89b</testSuiteGuid>
+   <testCaseLink>
+      <guid>376f1104-daf2-47d8-9c95-c15c468a653f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tìm kiếm</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>18371c55-9056-4292-ba0f-c98410a39908</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataTest</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>18371c55-9056-4292-ba0f-c98410a39908</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>keyword</value>
+         <variableId>e1d7ca5f-a8a9-4aee-9e5e-a3dbf2171b28</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>18371c55-9056-4292-ba0f-c98410a39908</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expectedresult</value>
+         <variableId>87613d7e-001d-435e-af85-a255ac79fffa</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

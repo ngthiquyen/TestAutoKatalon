@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>865105b8-4730-4d4c-9aa1-5ae438e1edfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>(//button[@type='submit'])[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>90b90ab8-c9db-46ae-93fa-0592e8618cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M1.72626 1.76055C2.83949 0.625242 4.31959 0 5.89391 0C7.46823 0 8.94833 0.625242 10.0615 1.76055C11.1747 2.89584 11.7878 4.4053 11.7878 6.01081C11.7878 7.47871 11.2751 8.86607 10.3365 9.96084L13.6097 13.2991C13.767 13.4594 13.767 13.7194 13.6097 13.8797C13.5311 13.9599 13.4281 14 13.3251 14C13.2221 14 13.119 13.9599 13.0404 13.8797L9.76711 10.5415C8.69364 11.4987 7.33326 12.0217 5.89391 12.0217C4.31957 12.0217 2.83952 11.3964 1.72629 10.2611C0.613085 9.12584 3.8147e-06 7.61638 3.8147e-06 6.01084C3.8147e-06 4.4053 0.613058 2.89584 1.72626 1.76055ZM2.29564 9.68048C4.27975 11.7039 7.50804 11.7039 9.49215 9.68048C11.4762 7.65704 11.4762 4.36466 9.49215 2.34123C8.5 1.3294 7.19716 0.823648 5.89388 0.823648C4.59093 0.823648 3.28755 1.32964 2.29561 2.34123C0.311584 4.36464 0.311584 7.65702 2.29564 9.68048Z</value>
+      <webElementGuid>1e7af627-fcf5-4ca8-b22a-e9576d297f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#212121</value>
+      <webElementGuid>05924d65-a87d-4425-82fe-84d667d8e444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidenav&quot;)/div[@class=&quot;sidenav-wrap&quot;]/div[@class=&quot;sidenav-item sidenav-search&quot;]/div[@class=&quot;sidenav-top sidenav-search-top&quot;]/form[1]/div[@class=&quot;form-group search-input-wrap&quot;]/button[@class=&quot;btn&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>d5ee2a62-1783-4e45-aa44-b713a0ce5c33</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

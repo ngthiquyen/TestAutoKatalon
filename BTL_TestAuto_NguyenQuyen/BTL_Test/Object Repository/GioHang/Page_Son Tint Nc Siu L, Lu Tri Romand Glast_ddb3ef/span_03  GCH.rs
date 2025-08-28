@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_03  GCH</name>
+   <tag></tag>
+   <elementGuidId>f61d1b55-a5b0-43fb-8ed6-a6591ff0a6bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-swatch-item-option1']/div[2]/div[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>10cb6fe3-73c4-4fce-9300-590d06fbf156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>03 ĐỎ GẠCH</value>
+      <webElementGuid>34493bcf-74c2-46bb-8161-eb9c25de0711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-swatch-item-option1&quot;)/div[@class=&quot;product-swatch-item-element-wrap&quot;]/div[@class=&quot;product-swatch-item-element&quot;]/label[1]/span[1]</value>
+      <webElementGuid>bec4510a-b25f-42b6-b42c-b4ede2778872</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-swatch-item-option1']/div[2]/div[2]/label/span</value>
+      <webElementGuid>82907368-67fb-4db6-b61f-3f5d473ddb03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiêu đề'])[1]/following::span[2]</value>
+      <webElementGuid>c412b5ad-436d-4be3-bf5e-9a17f2253cb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin Outlet'])[2]/following::span[2]</value>
+      <webElementGuid>3ba0b6fe-8780-43ea-b421-a146b087afbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[SALE] 04 ĐỎ NÂU'])[2]/preceding::span[1]</value>
+      <webElementGuid>522cecea-4f02-47e0-b4eb-92bc05369c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng chọn biến thể'])[1]/preceding::span[8]</value>
+      <webElementGuid>6b1881f0-bead-444a-8220-4e1a10ca8b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span</value>
+      <webElementGuid>db916069-3999-476f-a75d-397f4c736a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '03 ĐỎ GẠCH' or . = '03 ĐỎ GẠCH')]</value>
+      <webElementGuid>353a9d93-01f9-485a-b605-9b348e043f40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SupportDataTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>106c3ed3-f298-465b-9ff1-940eee2f2999</testSuiteGuid>
+   <testCaseLink>
+      <guid>37a2e8a0-c0ca-4b09-b9b3-29d7ef867426</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Trợ giúp</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>13543b18-f0fe-4d48-b351-3b488ff5af8d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataTest</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>13543b18-f0fe-4d48-b351-3b488ff5af8d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ten</value>
+         <variableId>898eb40a-cbfb-43e0-8107-015de8f71210</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13543b18-f0fe-4d48-b351-3b488ff5af8d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>dafef50c-afdb-46d4-909c-7b94832b0115</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13543b18-f0fe-4d48-b351-3b488ff5af8d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>mota</value>
+         <variableId>ce0f9296-9fe5-46f6-836d-4364f500cda0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13543b18-f0fe-4d48-b351-3b488ff5af8d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tepdinhkem</value>
+         <variableId>c08c610e-e953-497d-9270-d80f4fa85cf4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13543b18-f0fe-4d48-b351-3b488ff5af8d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected</value>
+         <variableId>3bbb3cb2-33d6-4ea3-8585-c636eafcbb47</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13543b18-f0fe-4d48-b351-3b488ff5af8d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>title</value>
+         <variableId>732bec28-03f8-429e-a7c0-51ec761c7ff5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

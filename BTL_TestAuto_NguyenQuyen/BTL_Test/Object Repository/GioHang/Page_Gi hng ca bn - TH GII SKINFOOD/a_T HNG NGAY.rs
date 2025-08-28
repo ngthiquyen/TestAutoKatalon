@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_T HNG NGAY</name>
+   <tag></tag>
+   <elementGuidId>1c1b82c2-64d6-4dd9-ada1-23a4ae47da06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-checkout.button.js-btn-checkout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-buy-order-box']/section[3]/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b187f5c9-3581-4ca1-8c79-6e7b83b6d81b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-checkout button js-btn-checkout</value>
+      <webElementGuid>7b0fe086-157e-4e76-b09d-03ae02695338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-box</name>
+      <type>Main</type>
+      <value>cart-info-order-box</value>
+      <webElementGuid>b0fe3b0f-932d-41c3-a8ae-82ac64f1e7ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ĐẶT HÀNG NGAY</value>
+      <webElementGuid>e08673bc-b159-45e5-9f49-166e5e53e129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-buy-order-box&quot;)/section[@class=&quot;section-info-total&quot;]/div[@class=&quot;summary-action&quot;]/a[@class=&quot;btn-checkout button js-btn-checkout&quot;]</value>
+      <webElementGuid>4b6caa58-fbd6-47f8-b284-1ee3e989bb22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-buy-order-box']/section[3]/div[4]/a</value>
+      <webElementGuid>72f556ab-1ee5-49fc-9077-5a81dba30cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ĐẶT HÀNG NGAY')]</value>
+      <webElementGuid>cdaeb74c-4c0d-41b6-b234-38e7f470f21f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng tiền:'])[1]/following::a[1]</value>
+      <webElementGuid>73291e74-5a71-43b6-8acb-fd040260f888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miễn phí'])[1]/following::a[1]</value>
+      <webElementGuid>097b130c-887c-4ec3-94f6-bdca26a4e72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin khách mua hàng'])[1]/preceding::a[1]</value>
+      <webElementGuid>3c3e8e34-4977-43f5-a2a0-805b012a272c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chị'])[1]/preceding::a[1]</value>
+      <webElementGuid>c0955738-d62d-42d7-b73a-dd456e68ed1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ĐẶT HÀNG NGAY']/parent::*</value>
+      <webElementGuid>5514a8a6-904b-415a-9b9b-47a1ee3565a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div[4]/a</value>
+      <webElementGuid>8fe188d4-85ae-407b-9b13-c3a2ebfca70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'ĐẶT HÀNG NGAY' or . = 'ĐẶT HÀNG NGAY')]</value>
+      <webElementGuid>f462bf39-97ba-4162-8ff4-f2c917222e0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

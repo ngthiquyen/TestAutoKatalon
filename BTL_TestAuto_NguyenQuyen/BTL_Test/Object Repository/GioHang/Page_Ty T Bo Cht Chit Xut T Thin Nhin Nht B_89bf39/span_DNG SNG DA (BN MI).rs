@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DNG SNG DA (BN MI)</name>
+   <tag></tag>
+   <elementGuidId>50c87d7a-b640-4e71-9a72-828c639f5e0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-swatch-item-option1']/div[2]/div[3]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c4f70fde-ed53-460f-9314-f74fd2faec21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DƯỠNG SÁNG DA (BẢN MỚI)</value>
+      <webElementGuid>1d6d97a4-ede3-4b15-860d-2244c0a2ccf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-swatch-item-option1&quot;)/div[@class=&quot;product-swatch-item-element-wrap&quot;]/div[@class=&quot;product-swatch-item-element&quot;]/label[1]/span[1]</value>
+      <webElementGuid>3a1cd6e6-aa27-483c-a86d-9ee73d033d11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-swatch-item-option1']/div[2]/div[3]/label/span</value>
+      <webElementGuid>5a3e5108-8f29-4bf3-a8a5-82f4b2de424c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DA KHÔ'])[2]/following::span[1]</value>
+      <webElementGuid>21113993-5aed-40ef-a4ba-fee1b7c54b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MỌI LOẠI DA'])[2]/following::span[2]</value>
+      <webElementGuid>a5cb2d39-1286-46e7-8505-b41f043b7adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THU NHỎ LỖ CHÂN LÔNG (BẢN MỚI)'])[2]/preceding::span[1]</value>
+      <webElementGuid>f6a666a0-30c9-463f-a89f-2a51cf09da66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng chọn biến thể'])[1]/preceding::span[2]</value>
+      <webElementGuid>7ef69884-e6d8-439f-a93b-09734588f019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/span</value>
+      <webElementGuid>6ad245dc-ff83-447e-b819-b8c9cf4afcab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DƯỠNG SÁNG DA (BẢN MỚI)' or . = 'DƯỠNG SÁNG DA (BẢN MỚI)')]</value>
+      <webElementGuid>082b0a8d-e5e3-4762-8a74-f529f5b3ac75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

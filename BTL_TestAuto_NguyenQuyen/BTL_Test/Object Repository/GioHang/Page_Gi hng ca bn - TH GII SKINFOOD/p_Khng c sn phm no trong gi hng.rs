@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Khng c sn phm no trong gi hng</name>
+   <tag></tag>
+   <elementGuidId>23298ef8-c3ee-40e2-9ac3-e5b44ac182b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-cart']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8a50e112-e132-4b1a-ba9b-2f0bf949da71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>d41b44ca-cc90-4c1b-a648-114c7fae8b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  				Không có sản phẩm nào trong giỏ hàng!</value>
+      <webElementGuid>e4dda1a2-1b21-474f-a5f4-4815559f477d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-cart&quot;)/div[@class=&quot;desc-empty&quot;]/p[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>b5c9d082-99a2-4264-bbf8-c0c837a8f483</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-cart']/div/p</value>
+      <webElementGuid>eb8082c7-be78-47d5-8e14-45b5a4c0ec52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thực Phẩm Chức Năng'])[1]/following::p[1]</value>
+      <webElementGuid>b0315e64-a15a-4b28-8900-615966f68b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thiết Bị Làm Đẹp'])[1]/following::p[1]</value>
+      <webElementGuid>ecf42d69-9dc4-408f-9fc2-1313338ed32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRỞ LÊN ĐẦU'])[1]/preceding::p[2]</value>
+      <webElementGuid>50beb597-a81d-4931-9cdc-3d3e09a3ab96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Không có sản phẩm nào trong giỏ hàng!']/parent::*</value>
+      <webElementGuid>e036e35e-37c8-48e6-a437-2d6a5c521c14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>0d660cd2-4dde-4833-aaa4-df6127c28ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+  				Không có sản phẩm nào trong giỏ hàng!' or . = '
+  				Không có sản phẩm nào trong giỏ hàng!')]</value>
+      <webElementGuid>14de21b1-1aa6-4c71-95a2-f24ca720278b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

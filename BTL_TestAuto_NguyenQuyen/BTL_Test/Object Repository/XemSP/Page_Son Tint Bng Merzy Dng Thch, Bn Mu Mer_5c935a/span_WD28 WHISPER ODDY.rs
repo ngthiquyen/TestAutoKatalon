@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_WD28 WHISPER ODDY</name>
+   <tag></tag>
+   <elementGuidId>62443134-2318-4520-8193-d40a9e93c47b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-swatch-item-option1']/div[2]/div[8]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5bd3bb49-efbe-4e6c-9230-9a849a320600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WD28 WHISPER ODDY</value>
+      <webElementGuid>13ac8dcc-5beb-42dd-8a7d-e9da707ad752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-swatch-item-option1&quot;)/div[@class=&quot;product-swatch-item-element-wrap&quot;]/div[@class=&quot;product-swatch-item-element&quot;]/label[1]/span[1]</value>
+      <webElementGuid>4e58dc12-9ab2-4d8c-8dfa-7a7b528ff3ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-swatch-item-option1']/div[2]/div[8]/label/span</value>
+      <webElementGuid>2df884ec-8a90-437d-9339-56605a35cc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WD27 FIG DUSTY'])[2]/following::span[1]</value>
+      <webElementGuid>8c35202d-f769-4274-9791-9510a1e78356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WD26 HUSHED APPEAL'])[2]/following::span[2]</value>
+      <webElementGuid>2eb2bc79-49e2-48e5-a667-35bcf34b8edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WD29 FRESH BLOOM'])[2]/preceding::span[1]</value>
+      <webElementGuid>a1be25c6-cc78-40dc-8d66-6461ccd191bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WD30 BLISS DAWN'])[2]/preceding::span[2]</value>
+      <webElementGuid>d74d9c7c-2270-41ae-94ed-89a453cf5b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/label/span</value>
+      <webElementGuid>9fadd193-cb61-459d-8cd4-401cd882fb6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'WD28 WHISPER ODDY' or . = 'WD28 WHISPER ODDY')]</value>
+      <webElementGuid>4462a543-076d-4dd4-ae72-eaff49c7d780</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

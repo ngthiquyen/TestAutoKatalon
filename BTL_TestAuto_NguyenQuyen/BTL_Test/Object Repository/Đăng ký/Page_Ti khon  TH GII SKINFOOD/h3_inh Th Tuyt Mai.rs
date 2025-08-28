@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_inh Th Tuyt Mai</name>
+   <tag></tag>
+   <elementGuidId>21ecbf00-86d4-4e1b-854e-dc88dbcbfbcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.img-account-info-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account-page']/div/div/div/div/div/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>1b16535f-0e6e-467e-ad95-ab9a9cd9d9db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-account-info-name</value>
+      <webElementGuid>04de535e-8d88-40b5-b7b6-83996977c80c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đinh Thị Tuyết Mai</value>
+      <webElementGuid>c7bed975-1e3a-47f7-a614-36f58da6730d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-page&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;account-page-wrap&quot;]/div[@class=&quot;account-page-sidebar&quot;]/div[@class=&quot;account-sidebar-header&quot;]/div[@class=&quot;img-account&quot;]/div[@class=&quot;img-account-info&quot;]/h3[@class=&quot;img-account-info-name&quot;]</value>
+      <webElementGuid>598d8342-be2d-4aa9-a5d7-d6043205e647</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account-page']/div/div/div/div/div/div[2]/h3</value>
+      <webElementGuid>634e93df-a23c-45b2-ab34-f270c8de166f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐT'])[1]/following::h3[1]</value>
+      <webElementGuid>3feb7d4e-4145-4e43-8d13-314d7fba4ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TẠP CHÍ LÀM ĐẸP'])[1]/following::h3[1]</value>
+      <webElementGuid>2fc38cd2-416f-45a9-a08c-612ee88cfac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dinhmai1997@gmail.com'])[1]/preceding::h3[1]</value>
+      <webElementGuid>1244319f-2969-4fb1-9f96-b5e0f60e8437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin'])[1]/preceding::h3[1]</value>
+      <webElementGuid>648c920f-f3a7-412b-9d79-a65e9a081290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đinh Thị Tuyết Mai']/parent::*</value>
+      <webElementGuid>b9089a07-e7fa-48b1-aa81-81bfb1bf2b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>b7d91ea9-9555-4dfb-a576-c2c1b81b4930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Đinh Thị Tuyết Mai' or . = 'Đinh Thị Tuyết Mai')]</value>
+      <webElementGuid>ba67cb86-2e26-4657-a2e4-928a18b06c9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

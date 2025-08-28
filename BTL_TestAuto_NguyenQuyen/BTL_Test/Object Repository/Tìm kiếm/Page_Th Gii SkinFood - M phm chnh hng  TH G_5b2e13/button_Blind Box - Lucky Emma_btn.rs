@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Blind Box - Lucky Emma_btn</name>
+   <tag></tag>
+   <elementGuidId>696821f2-78da-4ba7-b43a-64972c5c50e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sidenav-top.sidenav-search-top > form > div.form-group.search-input-wrap > button.btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>69573835-06aa-4cba-aa3c-5714d6cde6c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>dc2a5684-5a4f-4160-b431-2b8273555e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>b62d8e06-f631-408b-984b-c0298f31a034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidenav&quot;)/div[@class=&quot;sidenav-wrap&quot;]/div[@class=&quot;sidenav-item sidenav-search&quot;]/div[@class=&quot;sidenav-top sidenav-search-top&quot;]/form[1]/div[@class=&quot;form-group search-input-wrap&quot;]/button[@class=&quot;btn&quot;]</value>
+      <webElementGuid>cbf65df1-dc67-4a35-a679-245887a980d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>2f42b282-2a06-4ea3-b6f1-9f020e1e9cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidenav']/div/div[3]/div/form/div/button</value>
+      <webElementGuid>a6fb6aff-f28d-4424-b574-e5049bff7db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blind Box - Lucky Emma'])[2]/following::button[1]</value>
+      <webElementGuid>947fc0cf-4d59-4522-b4a8-201002957a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mini/Sample'])[2]/following::button[1]</value>
+      <webElementGuid>e954bf73-07cb-417c-a502-5e9c65cea3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Từ khóa phổ biến'])[2]/preceding::button[1]</value>
+      <webElementGuid>e9c6d042-a05c-4955-8f51-e7dbd5b88c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='romand'])[2]/preceding::button[1]</value>
+      <webElementGuid>47628116-df2d-4d14-a725-0aabe41ca0dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/div/button</value>
+      <webElementGuid>06847162-9c98-4b8e-a062-530d1afa4d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>e675f911-e304-4f6d-b8ce-1e3e5f33be7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

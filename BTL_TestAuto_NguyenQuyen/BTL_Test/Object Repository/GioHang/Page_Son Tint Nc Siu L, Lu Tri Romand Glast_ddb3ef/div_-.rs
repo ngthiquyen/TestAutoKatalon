@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_-</name>
+   <tag></tag>
+   <elementGuidId>fd5ee46d-f7b8-4dda-9123-1f3ea7ccd516</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-quantity</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-product']/section/div/div/div[2]/div[10]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0f50408-9bbb-4510-9423-6b93b0f23885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-quantity</value>
+      <webElementGuid>113bff09-6517-48cf-9169-0704176c0959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								-
+								
+								+
+							</value>
+      <webElementGuid>6a9fbc0d-9755-49ec-92da-1732a8165145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-product&quot;)/section[@class=&quot;page-product-info&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;page-product-info-wrap&quot;]/div[@class=&quot;page-product-info-right&quot;]/div[@class=&quot;page-product-select&quot;]/div[@class=&quot;page-product-info-quantity&quot;]/div[@class=&quot;product-quantity&quot;]</value>
+      <webElementGuid>5cec366a-e146-473e-aa1e-d3536c67245d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-product']/section/div/div/div[2]/div[10]/div[3]/div</value>
+      <webElementGuid>3b2a555e-51dc-4b57-a1ba-42dbff463fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số lượng'])[1]/following::div[1]</value>
+      <webElementGuid>ba9aa60e-e9a8-4eb8-9eda-dbe0f590d530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng chọn biến thể'])[1]/following::div[2]</value>
+      <webElementGuid>8e9fd8cd-03fb-4493-add2-e800cf96571d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[3]/div</value>
+      <webElementGuid>5d0cb92b-2cf3-4d13-ae46-649031142045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+								-
+								
+								+
+							' or . = '
+								-
+								
+								+
+							')]</value>
+      <webElementGuid>da4a9cb0-50d6-48a3-95d7-79954c8f061a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>cf88c523-4b3a-4f87-abee-50e44331adf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.f-header-top-icon-account > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotline: 1900 636 510'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>11003bb3-0123-49dc-af93-a04203d579ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>22</value>
+      <webElementGuid>411de615-6da3-40ad-8f2f-4f8e1d0fc266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>d0745ccd-87ca-473e-ab3a-6aa19129ce98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 22 21</value>
+      <webElementGuid>d997e054-02ff-472e-b856-c6a7cb651edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>f246d93f-1675-4d8c-bbdc-45a76c997407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>0f1ff8b7-1ffd-4107-9813-caf434219670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f-header&quot;)/section[@class=&quot;f-header-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;f-header-top-wrap&quot;]/div[@class=&quot;f-header-top-tools&quot;]/div[@class=&quot;f-header-top-icons&quot;]/a[@class=&quot;f-header-top-icon-account&quot;]/svg[1]</value>
+      <webElementGuid>2b42736b-c04d-42f0-a57c-69250fa1c30b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotline: 1900 636 510'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6dafe483-ee3a-4d12-8993-948c99eed274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKINCARE'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>7fe740b1-e995-42cd-b8bd-0e9be5655a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DANH MỤC SẢN PHẨM'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>3217b269-7afe-4121-a909-cc1e756b0846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang điểm'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>4e01b017-c040-40d1-8449-f46d78a8b892</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

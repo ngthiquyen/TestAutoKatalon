@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>phanloai</name>
+   <tag></tag>
+   <elementGuidId>5814aae5-b4e5-4709-ad96-ef17fd441187</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='product-swatch-item-element-wrap']//div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c756a5c-8c20-4963-8943-264de81a99dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WD14 WITH ZEST</value>
+      <webElementGuid>109551a9-bad9-44e4-918d-9c54867ecc63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-swatch-item-option1&quot;)/div[@class=&quot;product-swatch-item-element-wrap&quot;]/div[@class=&quot;product-swatch-item-element&quot;]/label[1]/span[1]</value>
+      <webElementGuid>80a4d903-9986-4ad6-b8a2-c8cde001672d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-swatch-item-option1']/div[2]/div/label/span</value>
+      <webElementGuid>3ce1866a-617f-44ef-a089-97fa354571ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiêu đề'])[1]/following::span[1]</value>
+      <webElementGuid>802da13d-1c42-4993-9e39-47bd491f9d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin Outlet'])[2]/following::span[1]</value>
+      <webElementGuid>816c163e-24c9-4267-bf7e-fc876b886684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WD20 MISTY WOOD'])[2]/preceding::span[1]</value>
+      <webElementGuid>b22a5127-6649-4e0d-bca3-15b307cb3938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WD21 BURNT MAPLE'])[2]/preceding::span[2]</value>
+      <webElementGuid>7dd358d7-1558-48aa-9da7-cc899de6102c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>9d2688d2-835a-4b10-bdc9-05b4172b6bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'WD14 WITH ZEST' or . = 'WD14 WITH ZEST')]</value>
+      <webElementGuid>a9753881-da93-4b9a-b6d8-c9243523fc0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
